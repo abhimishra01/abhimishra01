@@ -28,3 +28,10 @@
 - 📌 Martial arts (Taekwondo & Kalaripayattu) 
 - 📌 Dancing (MJ style 🎩! ) 
 - 📌 Musical instruments :- Guitar🎸& Piano 🎹 
+
+
+*Also Visit my Linkedin profile to connect me and also visit my blogs in multiple tech stacks !*
+
+### I hope my repositories might help you in some ways :)
+
+## Thank You for Visiting !!!
