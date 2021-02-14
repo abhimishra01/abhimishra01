@@ -1,8 +1,7 @@
-# Hello World
+# Hey everyone 🙋‍♂️!
 
 ## Moonwalker Here ! ! ! 
 
-Hey everyone 🙋‍♂️!
 😀I am a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
 ✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
 
