@@ -30,7 +30,7 @@
 - 📌 Musical instruments :- Guitar🎸& Piano 🎹 
 
 
-*Also Visit my Linkedin profile to connect me and also visit my blogs in multiple tech stacks !*
+*Also Visit my [Linkedin profile](https://www.linkedin.com/in/moonwalkerabhi/) to connect me and also visit my blogs in multiple tech stacks !*
 
 ### I hope my repositories might help you in some ways :)
 
