@@ -25,6 +25,6 @@
 
 
 ### ⚜ My skills apart from technical field are:-
-| 📌 Martial arts (Taekwondo & Kalaripayattu) |
-| 📌 Dancing (MJ style 🎩! ) |
-| 📌 Musical instruments :- Guitar🎸& Piano 🎹 |
+- 📌 Martial arts (Taekwondo & Kalaripayattu) 
+- 📌 Dancing (MJ style 🎩! ) 
+- 📌 Musical instruments :- Guitar🎸& Piano 🎹 
