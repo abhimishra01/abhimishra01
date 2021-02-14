@@ -17,9 +17,12 @@
 | Deep Learning | 5 / 10 |
 | Audio/Biosignal Digitial Signal Processing | 7 / 10 |
 | BCI Software Developments | 8 / 10 | 
-| Docker Containers | 8 / 10 |
-| Devops methodology | 7 / 10 |
+| Container Technologies | 8 / 10 |
+| Ansible | 8 / 10 |
+| Kuberentes | 7 / 10 |
+| Devops methodologies | 7 / 10 |
 | MLOps | 7 / 10 |
+| AWS Cloud Computing | 7 / 10 |
 | Big data Hadoop | 5 / 10 |
 | Flutter & Dart (UI Design) | 7 / 10 |
 
