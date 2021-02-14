@@ -22,3 +22,10 @@
 | MLOps | 7 / 10 |
 | Big data Hadoop | 5 / 10 |
 | Flutter & Dart (UI Design) | 7 / 10 |
+
+
+
+### ⚜My skills apart from technical field are:-
+- 📌 Musical instruments :- Guitar🎸& Piano 🎹
+- 📌 Martial arts (Taekwondo & Kalaripayattu)
+- 📌 Dancing (MJ style 🎩! )
