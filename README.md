@@ -8,7 +8,7 @@
 🎀 I have also been working on Brain Computer Interfaces Technology and researching how to yield effective BCI + AI products 🎀
 
 
-### My technical skills :-
+### ⚜My technical skills :-
 
 | Skills | Rating out of 10 |
 | ------ | ---------------- |
@@ -26,6 +26,6 @@
 
 
 ### ⚜My skills apart from technical field are:-
-- 📌 Musical instruments :- Guitar🎸& Piano 🎹
-- 📌 Martial arts (Taekwondo & Kalaripayattu)
-- 📌 Dancing (MJ style 🎩! )
+| 📌 Musical instruments :- Guitar🎸& Piano 🎹 |
+| 📌 Martial arts (Taekwondo & Kalaripayattu) |
+| 📌 Dancing (MJ style 🎩! ) |
