@@ -2,7 +2,7 @@
 
 ## Moonwalker Here ! ! ! 
 
-###My technical skills :-
+### My technical skills :-
 
 | Skills | Rating out of 10 |
 | ------ | ---------------- |
