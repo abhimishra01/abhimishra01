@@ -1,6 +1,7 @@
-<h1 aligh="center"> Hey everyone 🙋‍♂️!</h1>
+<h1 align="center"> Hey everyone 🙋‍♂️!</h1>
 
-## Moonwalker Here ! ! ! 
+<h2 align="center">Moonwalker Here ! ! ! 
+</h2>
 
 😀I am a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
 ✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
