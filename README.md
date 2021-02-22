@@ -8,7 +8,7 @@
 
 > 🎀 I have also been working on Brain Computer Interfaces Technology and researching how to yield effective BCI + AI products 🎀
 
-<center>
+
 ### ⚜My technical skills :-
 
 | Skills | Rating out of 10 |
@@ -33,7 +33,7 @@
 - 📌 Dancing (MJ style 🎩! ) 
 - 📌 Musical instruments :- Guitar🎸& Piano 🎹 
 
-</center>
+
 > Also Visit my [Linkedin profile](https://www.linkedin.com/in/moonwalkerabhi/) to connect me and also visit my blogs in multiple tech stacks !
 <br><br>
 <h3 align="center">I hope my repositories might help you in some ways 😇<h3>
