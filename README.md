@@ -34,7 +34,7 @@
 - 📌 Musical instruments :- Guitar🎸& Piano 🎹 
 
 </center>
-> *Also Visit my [Linkedin profile](https://www.linkedin.com/in/moonwalkerabhi/) to connect me and also visit my blogs in multiple tech stacks !*
+> Also Visit my [Linkedin profile](https://www.linkedin.com/in/moonwalkerabhi/) to connect me and also visit my blogs in multiple tech stacks !
 <br><br>
 <h3 align="center">I hope my repositories might help you in some ways 😇<h3>
 
