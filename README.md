@@ -6,7 +6,7 @@
 😀I am a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
 ✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
 
-🎀 I have also been working on Brain Computer Interfaces Technology and researching how to yield effective BCI + AI products 🎀
+> 🎀 I have also been working on Brain Computer Interfaces Technology and researching how to yield effective BCI + AI products 🎀
 
 
 ### ⚜My technical skills :-
@@ -28,14 +28,14 @@
 | Flutter & Dart (UI Design) | 7 / 10 |
 
 
-### ⚜ My skills apart from technical field are:-
+ ⚜ My skills apart from technical field are:-
 - 📌 Martial arts (Taekwondo & Kalaripayattu) 
 - 📌 Dancing (MJ style 🎩! ) 
 - 📌 Musical instruments :- Guitar🎸& Piano 🎹 
 
 
-*Also Visit my [Linkedin profile](https://www.linkedin.com/in/moonwalkerabhi/) to connect me and also visit my blogs in multiple tech stacks !*
+> *Also Visit my [Linkedin profile](https://www.linkedin.com/in/moonwalkerabhi/) to connect me and also visit my blogs in multiple tech stacks !*
+<br><br>
+<h3 align="center">I hope my repositories might help you in some ways 😇<h3>
 
-### I hope my repositories might help you in some ways 😇
-
-## Thank You for Visiting !!!
+<h2 align="center"> Thank You for Visiting !!! </h2>
