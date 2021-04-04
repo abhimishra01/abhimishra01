@@ -12,19 +12,19 @@
 ### ⚜My technical skills :-
 
 
-                | Skills | Rating out of 10 |
-                | ------ | ---------------- |
-                | Python | 8 / 10 |
-                | Javascript | 6 / 10 |
-                | Machine Learning | 7 / 10 |
-                | Deep Learning | 5 / 10 |
-                | Digitial Signal Processing | 5 / 10 |
-                | BCI Software Developments | 6 / 10 | 
-                | Docker Containers | 7 / 10 |
-                | Ansible | 7 / 10 |
-                | AWS Cloud Computing | 6 / 10 |
-                | Flutter & Dart (UI Design) | 7 / 10 |
-                | React JS | 2 / 10 |
+                                | Skills | Rating out of 10 |
+                                | ------ | ---------------- |
+                                | Python | 8 / 10 |
+                                | Javascript | 6 / 10 |
+                                | Machine Learning | 7 / 10 |
+                                | Deep Learning | 5 / 10 |
+                                | Digitial Signal Processing | 5 / 10 |
+                                | BCI Software Developments | 6 / 10 | 
+                                | Docker Containers | 7 / 10 |
+                                | Ansible | 7 / 10 |
+                                | AWS Cloud Computing | 6 / 10 |
+                                | Flutter & Dart (UI Design) | 7 / 10 |
+                                | React JS | 2 / 10 |
 
 
  ⚜ My skills apart from technical field are:-
