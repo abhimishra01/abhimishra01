@@ -16,6 +16,7 @@
                                 | ------ | ---------------- |
                                 | Python | 8 / 10 |
                                 | Javascript | 6 / 10 |
+                                | HTML - CSS | 7 / 10 |
                                 | Machine Learning | 7 / 10 |
                                 | Deep Learning | 5 / 10 |
                                 | Digitial Signal Processing | 5 / 10 |
