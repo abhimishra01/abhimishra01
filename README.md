@@ -3,7 +3,7 @@
 <h2 align="center">Moonwalker Here 🎩 ! ! 
 </h2>
 
-😀I am a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
+😀I am a Front End Developer plus a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
 ✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
 
 > 🎀 I have also been working on Brain Computer Interfaces Technology and researching how to yield effective BCI + AI products 🎀
@@ -16,16 +16,15 @@
 | ------ | ---------------- |
 | Python | 8 / 10 |
 | Javascript | 6 / 10 |
+| React JS | 3 / 10 |
 | HTML - CSS | 7 / 10 |
-| Machine Learning | 7 / 10 |
-| Deep Learning | 5 / 10 |
+| Machine Learning | 6 / 10 |
 | Digitial Signal Processing | 5 / 10 |
 | BCI Software Developments | 6 / 10 | 
 | Docker Containers | 7 / 10 |
 | Ansible | 7 / 10 |
 | AWS Cloud Computing | 6 / 10 |
-| Flutter & Dart (UI Design) | 7 / 10 |
-| React JS | 2 / 10 |
+| Flutter & Dart | 6 / 10 |
 
 
  ⚜ My skills apart from technical field are:-
