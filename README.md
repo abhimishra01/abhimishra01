@@ -16,7 +16,7 @@
 | ------ | ---------------- |
 | Python | 8 / 10 |
 | Javascript | 6 / 10 |
-| React JS | 4 / 10 |
+| React JS | 6 / 10 |
 | HTML - CSS | 7 / 10 |
 | Machine Learning | 6 / 10 |
 | Digitial Signal Processing | 5 / 10 |
