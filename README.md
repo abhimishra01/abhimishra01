@@ -3,7 +3,7 @@
 <h2 align="center">Moonwalker Here 🎩 ! ! 
 </h2>
 
-😀I am a Front End Developer plus a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
+😀I am a Front End Developer plus a Technology Nerd,also learning multiple technologies constantly to make this world a better place to live. 😀
 ✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
 
 
