@@ -6,8 +6,6 @@
 😀I am a Front End Developer plus a Technology Nerd, learning multiple technologies constantly to make this world a better place to live. 😀
 ✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
 
-> 🎀 I have also been working on Brain Computer Interfaces Technology and researching how to yield effective BCI + AI products 🎀
-
 
 ### ⚜My technical skills :-
 
