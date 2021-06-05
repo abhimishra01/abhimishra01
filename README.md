@@ -16,9 +16,6 @@
 | Javascript                 | 6 / 10           |
 | React JS                   | 6 / 10           |
 | Python                     | 8 / 10           |
-| Machine Learning           | 5 / 10           |
-| Digitial Signal Processing | 5 / 10           |
-| BCI Software Developments  | 4 / 10           |
 | Docker Containers          | 5 / 10           |
 | Ansible                    | 6 / 10           |
 | AWS Cloud Computing        | 6 / 10           |
