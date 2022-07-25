@@ -10,16 +10,17 @@
 ### ⚜My technical skills :-
 
 
-| Skills                     | Rating out of 10 |
-| -------------------------- | ---------------- |
-| HTML - CSS                 | 7 / 10           |
-| Javascript                 | 6 / 10           |
-| React JS                   | 6 / 10           |
-| Python                     | 8 / 10           |
-| Docker Containers          | 5 / 10           |
-| Ansible                    | 6 / 10           |
-| AWS Cloud Computing        | 6 / 10           |
-| Flutter & Dart             | 6 / 10           |
+| My Skills                  | 
+| -------------------------- | 
+| HTML - CSS                 | 
+| Javascript                 |
+| React JS                   | 
+| Node JS                    |
+| Mysql                      | 
+| Serverless framework       | 
+| Python                     | 
+| AWS Cloud Computing        |
+
 
 
  ⚜ My skills apart from technical field are:-
