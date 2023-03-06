@@ -15,7 +15,7 @@ My arsenal 🛠️ includes :-
 - AWS 
 - Mysql 
 - Serverless framework
-- Ability to figure things out 👨
+- Ability to figure things out 👨🏻‍💻
 
 I love exploring, discussing and posting intresting tech content whenever i get a chance, so feel free to reach out or connect with me ! 😃
 
