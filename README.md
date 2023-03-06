@@ -9,11 +9,13 @@ I work at [Wednesday Solutions](https://www.wednesday.is/) as a Software Enginee
 As a full-stack developer🚀, I have honed my skiils in React JS ecosystem along with building APIs with power-packed features for clients. I have also converted figma designs to live running web applications and designed backend architectures integrating lambda functions, ec2, RDS, etc and several other services together packed into one serverless model. 
 
 My arsenal 🛠️ includes :- 
-- Javascript
+
 - React JS
+- Node Js
 - AWS 
 - Mysql 
 - Serverless framework
+- Ability to figure things out 👨
 
 I love exploring, discussing and posting intresting tech content whenever i get a chance, so feel free to reach out or connect with me ! 😃
 
