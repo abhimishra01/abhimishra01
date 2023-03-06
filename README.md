@@ -2,7 +2,7 @@
 
 <h2 align="center">I am Abhishek Mishra </h2>
 
-Hello there,👋 
+
 I am a Self-taught Programmer👨🏻‍💻, who loves building things in Javascript. 
 I work at Wednesday Solutions as a Software Engineer where I practice the art of programming 👨🏻‍💻 and finding solutions 🔧 to various problems.
 
