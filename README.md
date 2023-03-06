@@ -1,25 +1,33 @@
 <h1 align="center"> Hey everyone 🙋‍♂️</h1>
 
-<h2 align="center">Moonwalker Here 🎩 ! ! 
+<h2 align="center">I amAbhishek Mishra 🎩 ! ! 
 </h2>
 
-😀I am a Web Developer plus a Technology Nerd,also learning multiple technologies constantly to make this world a better place to live. 😀
-✨Also a Thinker and Curiosity 🤔carrier in exploring the Space 🚀 and extraterrestrial life forms 👽 in the universe 🌌!
+Hello there,👋 
+I am a Self-taught Programmer👨🏻‍💻, who loves building things in Javascript. 
+I work at Wednesday Solutions as a Software Engineer where I practice the art of programming 👨🏻‍💻 and finding solutions 🔧 to various problems.
+
+As a full-stack developer🚀, I have honed my skiils in React JS ecosystem along with building APIs with power-packed features for clients. I have also converted figma designs to live running web applications and designed backend architectures integrating lambda functions, ec2, RDS, etc and several other services together packed into one serverless model. 
+
+My arsenal 🛠️ includes :- 
+- Javascript
+- React JS
+- AWS 
+- Mysql 
+- Serverless framework
+
+I love exploring, discussing and posting intresting tech content whenever i get a chance, so feel free to reach out or connect with me ! 😃
 
 
-### ⚜My technical skills :-
 
 
-| My Skills                  | 
-| -------------------------- | 
-| HTML - CSS                 | 
-| Javascript                 |
-| React JS                   | 
-| Node JS                    |
-| Mysql                      | 
-| Serverless framework       | 
-| Python                     | 
-| AWS Cloud Computing        |
+<br>
+
+## :trophy: My Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishra01&theme=dark&show_icons=true)
+<div>
+
+
 
 
 
@@ -29,7 +37,7 @@
 - 📌 Musical instruments :- Guitar🎸& Piano 🎹 
 
 
-> *Also Visit my [Linkedin profile](https://www.linkedin.com/in/abhimishra321/) to connect me and also visit my blogs in multiple tech stacks !*
+> *Also Visit my [Linkedin profile](https://www.linkedin.com/in/abhimishra321/) to connect me, I would love to share our knowledge together! !*
 <br><br>
 <h3 align="center">I hope my repositories might help you in some ways 😇<h3>
 
