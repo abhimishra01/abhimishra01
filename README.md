@@ -1,6 +1,6 @@
 <h1 align="center"> Hey everyone 🙋‍♂️</h1>
 
-<h2 align="center">I amAbhishek Mishra 🎩 ! ! 
+<h2 align="center">I am Abhishek Mishra 🎩 ! ! 
 </h2>
 
 Hello there,👋 
