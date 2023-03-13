@@ -31,7 +31,7 @@ I love exploring, discussing and posting intresting tech content whenever i get 
 
 
 
-> *Also Visit my [Linkedin profile](https://www.linkedin.com/in/abhimishra321/) to connect me, I would love to share our knowledge together! !*
+> *Also Visit my [Linkedin profile](https://www.linkedin.com/in/abhimishra321/) to connect with me, I would love to share our knowledge together! !*
 <br><br>
 <h3 align="center">I hope my repositories might help you in some ways 😇<h3>
 
