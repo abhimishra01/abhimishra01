@@ -24,7 +24,7 @@ I love exploring, discussing and posting intresting tech content whenever i get 
 <br>
 
 ## :trophy: My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishra01&theme=dark&show_icons=true)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishra01&theme=dark&show_icons=true)
 <div>
 
 
@@ -36,3 +36,6 @@ I love exploring, discussing and posting intresting tech content whenever i get 
 <h3 align="center">I hope my repositories might help you in some ways 😇<h3>
 
 <h2 align="center"> Thank You for Visiting !!! </h2>
+  
+
+
