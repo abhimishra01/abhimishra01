@@ -3,21 +3,11 @@
 
 
 - I am a Self-taught Programmer👨🏻‍💻
-- I work as a software engineer at [Wednesday Solutions](https://www.wednesday.is/)
-
+- I work as a software engineer - II at [Juno AI](https://www.thisisjuno.ai/careers)
 ---
 A full-stack software engineer with over three years of experience building scalable applications using JavaScript and Python. My expertise includes transforming complex designs into production-ready apps and developing high-grade APIs for diverse industries. I have good hands-on exposure to optimizing cloud infrastructures and delivering significant cost savings while ensuring smooth code delivery through automated CI/CD pipelines.
 
-My arsenal 🛠️ includes :- 
 
-- React, Node Js
-- Python, Django, FastAPi
-- AWS & GCP
-- CI/CD and DevOps
-- Docker 
-- Mysql
-- Agile Project managment
-- Ability to figure things out 👨🏻‍💻
 
 ---
 
