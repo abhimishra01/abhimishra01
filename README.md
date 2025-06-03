@@ -3,7 +3,7 @@
 
 
 - I am a Self-taught Programmer👨🏻‍💻
-- I work as a software engineer - II at [Juno AI](https://www.thisisjuno.ai/careers)
+- I work as a software engineer - II at [Juno AI](https://www.thisisjuno.ai/)
 ---
 A full-stack software engineer with over three years of experience building scalable applications using JavaScript and Python. My expertise includes transforming complex designs into production-ready apps and developing high-grade APIs for diverse industries. I have good hands-on exposure to optimizing cloud infrastructures and delivering significant cost savings while ensuring smooth code delivery through automated CI/CD pipelines.
 
