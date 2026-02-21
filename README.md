@@ -11,7 +11,7 @@ I specialise in two areas where AI delivers the highest ROI for businesses:
 - Document Intelligence - automated extraction, validation, and analysis of financial statements, bank statements, KYC documents, and compliance filings
 - Conversational AI & Chatbots - production-grade chatbots and AI agents integrated with CRMs, email systems, and business workflows
 
-With 4+ years of full-stack engineering experience across JavaScript and Python, I bridge the gap between AI capabilities and real business outcomes. I've worked across fintech, lending, payments, and SaaS — building systems that close paying clients, not just demos.
+With 4+ years of full-stack engineering experience across JavaScript and Python, I bridge the gap between AI capabilities and real business outcomes. I've worked across fintech, lending, payments, and SaaS, building systems that close paying clients, not just demos.
 
 Tech stack: Node.js, Python, FastAPI, NestJS, ReactJS, OpenAI/LLM APIs, AWS, Redis, Docker, Pipedrive, HubSpot, Puppeteer.
 
