@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --bg: #0a0a0a;
+  --surface: #111111;
+  --surface-2: #1a1a1a;
+  --accent: #f97316;
+  --accent-2: #6366f1;
+  --accent-glow: rgba(249,115,22,0.3);
+  --text-primary: #f1f5f9;
+  --text-muted: #64748b;
+  --border: #1e293b;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f97316;
+}
+
+/* Hero dot grid */
+.hero-dots {
+  background-image: radial-gradient(
+    rgba(249,115,22,0.12) 1px, transparent 1px
+  );
+  background-size: 28px 28px;
+}
+
+/* Hero radial glow */
+.hero-bg {
+  background:
+    radial-gradient(ellipse 60% 50% at 70% 20%,
+      rgba(249,115,22,0.08) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 40% at 20% 80%,
+      rgba(99,102,241,0.06) 0%, transparent 60%);
+}
+
+/* Glow utilities */
+.glow-orange {
+  box-shadow: 0 0 20px rgba(249, 115, 22, 0.15);
+}
+.glow-orange:hover {
+  box-shadow: 0 0 30px rgba(249, 115, 22, 0.3);
+}
+.glow-indigo {
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.15);
+}
+.glow-indigo:hover {
+  box-shadow: 0 0 30px rgba(99, 102, 241, 0.3);
+}
+
+/* Green availability pulse */
+@keyframes pulse-green {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.3); }
+}
+.pulse-green {
+  animation: pulse-green 2s ease-in-out infinite;
+}
