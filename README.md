@@ -1,33 +1,31 @@
-<h1 align="center"> Hey everyone 🙋‍♂️</h1>
+<h1 align="center"> Welcome </h1>
 
-
-
-- I am a Self-taught Programmer👨🏻‍💻
 - I work as a software engineer - II at [Oqu AI](https://www.oqu.ai/)
 ---
-A full-stack software engineer with over three years of experience building scalable applications using JavaScript and Python. My expertise includes transforming complex designs into production-ready apps and developing high-grade APIs for diverse industries. I have good hands-on exposure to optimizing cloud infrastructures and delivering significant cost savings while ensuring smooth code delivery through automated CI/CD pipelines.
+I build AI systems that eliminate manual work at scale.
+
+My recent work automated financial document underwriting for a lending platform reducing a daily manual workload by 80% using a single AI agent accelerating client onboarding and credit decisions without adding headcount.
+
+I specialise in two areas where AI delivers the highest ROI for businesses:
+
+- Document Intelligence - automated extraction, validation, and analysis of financial statements, bank statements, KYC documents, and compliance filings
+- Conversational AI & Chatbots - production-grade chatbots and AI agents integrated with CRMs, email systems, and business workflows
+
+With 4+ years of full-stack engineering experience across JavaScript and Python, I bridge the gap between AI capabilities and real business outcomes. I've worked across fintech, lending, payments, and SaaS — building systems that close paying clients, not just demos.
+
+Tech stack: Node.js, Python, FastAPI, NestJS, ReactJS, OpenAI/LLM APIs, AWS, Redis, Docker, Pipedrive, HubSpot, Puppeteer.
+
+Currently based in Lucknow. Open to remote roles and freelance engagements globally.
+
+If you're building something in fintech, document-heavy, SAAS or any other workflows and need AI that actually works in production - let's talk.
 
 
 
----
 
-
-
-<br>
-
-## :trophy: My Github Stats:
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishra01&theme=dark&show_icons=true)
-<div>
-
-
-
-
-
-> *Also Visit my [LinkedIn profile](https://www.linkedin.com/in/abhimishra321/) to connect with me, I would love to share our knowledge! !*
+> *Also Visit my [LinkedIn profile](https://www.linkedin.com/in/abhimishra321/) to connect with me *
 <br><br>
-<h3 align="center">I hope my repositories might help you in some ways 😇<h3>
 
-<h2 align="center"> Thank You for Visiting !!! </h2>
+
   
 
 
