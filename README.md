@@ -22,7 +22,7 @@ If you're building something in fintech, document-heavy, SAAS or any other workf
 
 
 
-> *Also Visit my [LinkedIn profile](https://www.linkedin.com/in/abhimishra321/) to connect with me *
+> *Also Visit my [LinkedIn profile](https://www.linkedin.com/in/abhimishra321/) to connect with me*
 <br><br>
 
 
