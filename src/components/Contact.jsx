@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { FiMail, FiGithub, FiLinkedin } from 'react-icons/fi'
+import { FiMail, FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi'
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
@@ -52,7 +52,10 @@ export default function Contact() {
           transition={{ duration: 0.5 }}
           className="mb-14"
         >
-          <h2 className="text-3xl font-bold text-slate-100 mb-2">Let&apos;s Build Something</h2>
+          <h2 className="font-heading text-3xl font-bold text-slate-100 mb-2">
+            Let&apos;s Build <span className="text-violet-400">Something</span>
+          </h2>
+          <div className="w-10 h-0.5 bg-violet-500 mb-3" />
           <p className="text-slate-500">
             Open to freelance projects, consulting, and interesting full-time opportunities.
           </p>
@@ -77,9 +80,9 @@ export default function Contact() {
                 href="mailto:abhimishra1101engg@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 text-slate-400 hover:text-orange-400 transition-colors text-sm group"
+                className="flex items-center gap-3 text-slate-400 hover:text-violet-400 transition-colors text-sm group"
               >
-                <span className="w-9 h-9 rounded-lg bg-[#111111] border border-slate-800 flex items-center justify-center group-hover:border-orange-500/40 transition-colors">
+                <span className="w-9 h-9 rounded-lg bg-[#111118] border border-slate-800 flex items-center justify-center group-hover:border-violet-500/40 transition-colors">
                   <FiMail size={16} />
                 </span>
                 abhimishra1101engg@gmail.com
@@ -89,9 +92,9 @@ export default function Contact() {
                 href="https://github.com/abhimishra01"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 text-slate-400 hover:text-orange-400 transition-colors text-sm group"
+                className="flex items-center gap-3 text-slate-400 hover:text-violet-400 transition-colors text-sm group"
               >
-                <span className="w-9 h-9 rounded-lg bg-[#111111] border border-slate-800 flex items-center justify-center group-hover:border-orange-500/40 transition-colors">
+                <span className="w-9 h-9 rounded-lg bg-[#111118] border border-slate-800 flex items-center justify-center group-hover:border-violet-500/40 transition-colors">
                   <FiGithub size={16} />
                 </span>
                 github.com/abhimishra01
@@ -101,12 +104,24 @@ export default function Contact() {
                 href="https://linkedin.com/in/abhimishra321"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-3 text-slate-400 hover:text-orange-400 transition-colors text-sm group"
+                className="flex items-center gap-3 text-slate-400 hover:text-violet-400 transition-colors text-sm group"
               >
-                <span className="w-9 h-9 rounded-lg bg-[#111111] border border-slate-800 flex items-center justify-center group-hover:border-orange-500/40 transition-colors">
+                <span className="w-9 h-9 rounded-lg bg-[#111118] border border-slate-800 flex items-center justify-center group-hover:border-violet-500/40 transition-colors">
                   <FiLinkedin size={16} />
                 </span>
                 linkedin.com/in/abhimishra321
+              </a>
+
+              <a
+                href="https://x.com/abhimishra__"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 text-slate-400 hover:text-violet-400 transition-colors text-sm group"
+              >
+                <span className="w-9 h-9 rounded-lg bg-[#111118] border border-slate-800 flex items-center justify-center group-hover:border-violet-500/40 transition-colors">
+                  <FiTwitter size={16} />
+                </span>
+                @abhimishra__
               </a>
             </div>
           </motion.div>
@@ -123,7 +138,7 @@ export default function Contact() {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="flex flex-col gap-1.5">
                   <label htmlFor="name" className="text-xs font-medium text-slate-500">
-                    Name <span className="text-orange-400">*</span>
+                    Name <span className="text-violet-400">*</span>
                   </label>
                   <input
                     id="name"
@@ -133,12 +148,12 @@ export default function Contact() {
                     value={form.name}
                     onChange={handleChange}
                     placeholder="Your name"
-                    className="px-3 py-2.5 rounded-lg bg-[#111111] border border-slate-800 text-sm text-slate-100 placeholder:text-slate-600 focus:outline-none focus:border-orange-500/50 focus:ring-1 focus:ring-orange-500/20 transition-colors"
+                    className="px-3 py-2.5 rounded-lg bg-[#111118] border border-slate-800 text-sm text-slate-100 placeholder:text-slate-600 focus:outline-none focus:border-violet-500/50 focus:ring-1 focus:ring-violet-500/50 transition-colors"
                   />
                 </div>
                 <div className="flex flex-col gap-1.5">
                   <label htmlFor="email" className="text-xs font-medium text-slate-500">
-                    Email <span className="text-orange-400">*</span>
+                    Email <span className="text-violet-400">*</span>
                   </label>
                   <input
                     id="email"
@@ -148,14 +163,14 @@ export default function Contact() {
                     value={form.email}
                     onChange={handleChange}
                     placeholder="you@example.com"
-                    className="px-3 py-2.5 rounded-lg bg-[#111111] border border-slate-800 text-sm text-slate-100 placeholder:text-slate-600 focus:outline-none focus:border-orange-500/50 focus:ring-1 focus:ring-orange-500/20 transition-colors"
+                    className="px-3 py-2.5 rounded-lg bg-[#111118] border border-slate-800 text-sm text-slate-100 placeholder:text-slate-600 focus:outline-none focus:border-violet-500/50 focus:ring-1 focus:ring-violet-500/50 transition-colors"
                   />
                 </div>
               </div>
 
               <div className="flex flex-col gap-1.5">
                 <label htmlFor="message" className="text-xs font-medium text-slate-500">
-                  Message <span className="text-orange-400">*</span>
+                  Message <span className="text-violet-400">*</span>
                 </label>
                 <textarea
                   id="message"
@@ -165,7 +180,7 @@ export default function Contact() {
                   value={form.message}
                   onChange={handleChange}
                   placeholder="Tell me about your project..."
-                  className="px-3 py-2.5 rounded-lg bg-[#111111] border border-slate-800 text-sm text-slate-100 placeholder:text-slate-600 focus:outline-none focus:border-orange-500/50 focus:ring-1 focus:ring-orange-500/20 transition-colors resize-none"
+                  className="px-3 py-2.5 rounded-lg bg-[#111118] border border-slate-800 text-sm text-slate-100 placeholder:text-slate-600 focus:outline-none focus:border-violet-500/50 focus:ring-1 focus:ring-violet-500/50 transition-colors resize-none"
                 />
               </div>
 
@@ -174,8 +189,8 @@ export default function Contact() {
                 disabled={status === 'sending'}
                 className="px-6 py-3 rounded-lg font-semibold text-sm text-white transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:translate-y-0"
                 style={{
-                  background: 'linear-gradient(to right, #f97316, #ea580c)',
-                  boxShadow: status !== 'sending' ? '0 4px 20px rgba(249,115,22,0.3)' : undefined,
+                  background: 'linear-gradient(to right, #8b5cf6, #6366f1)',
+                  boxShadow: status !== 'sending' ? '0 4px 20px rgba(139,92,246,0.3)' : undefined,
                 }}
               >
                 {status === 'sending' ? 'Sending…' : 'Send Message'}

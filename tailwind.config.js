@@ -7,15 +7,17 @@ export default {
   theme: {
     extend: {
       colors: {
-        accent: '#f97316',
+        accent: '#8b5cf6',
         'accent-secondary': '#6366f1',
-        'accent-glow': 'rgba(249,115,22,0.3)',
-        surface: '#111111',
-        'surface-2': '#1a1a1a',
-        border: '#1e293b',
+        'accent-glow': 'rgba(139,92,246,0.3)',
+        surface: '#111118',
+        'surface-2': '#1a1825',
+        border: 'rgba(139,92,246,0.15)',
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        heading: ['Syne', 'sans-serif'],
+        body: ['DM Sans', 'sans-serif'],
+        sans: ['DM Sans', 'sans-serif'],
       },
     },
   },

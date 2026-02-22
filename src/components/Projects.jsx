@@ -18,11 +18,11 @@ const accentMap = {
     badge: 'bg-indigo-500/10 text-indigo-400 border-indigo-500/20',
     btn: 'bg-indigo-500/10 text-indigo-400 hover:bg-indigo-500/20 border border-indigo-500/20',
   },
-  orange: {
-    border: 'border-orange-500/30 hover:border-orange-500/70',
-    glow: 'hover:shadow-[0_0_30px_rgba(249,115,22,0.2)]',
-    badge: 'bg-orange-500/10 text-orange-400 border-orange-500/20',
-    btn: 'bg-orange-500/10 text-orange-400 hover:bg-orange-500/20 border border-orange-500/20',
+  violet: {
+    border: 'border-violet-500/30 hover:border-violet-500/70',
+    glow: 'hover:shadow-[0_0_30px_rgba(139,92,246,0.2)]',
+    badge: 'bg-violet-500/10 text-violet-400 border-violet-500/20',
+    btn: 'bg-violet-500/10 text-violet-400 hover:bg-violet-500/20 border border-violet-500/20',
   },
   muted: {
     border: 'border-slate-800/50',
@@ -44,7 +44,8 @@ export default function Projects() {
           transition={{ duration: 0.5 }}
           className="mb-14"
         >
-          <h2 className="text-3xl font-bold text-slate-100 mb-2">What I&apos;ve Shipped</h2>
+          <h2 className="font-heading text-3xl font-bold text-slate-100 mb-2">What I&apos;ve Shipped</h2>
+          <div className="w-10 h-0.5 bg-violet-500 mb-3" />
           <p className="text-slate-500">Real tools. Live links. Actual users.</p>
         </motion.div>
 
@@ -62,13 +63,13 @@ export default function Projects() {
                 initial="hidden"
                 whileInView="visible"
                 viewport={{ once: true }}
-                className={`relative rounded-xl border bg-[#111111] p-6 flex flex-col gap-5 transition-all duration-300 hover:-translate-y-1 ${ac.border} ${ac.glow} ${
+                className={`relative rounded-xl border bg-[#111118] p-6 flex flex-col gap-5 transition-all duration-300 hover:-translate-y-1 ${ac.border} ${ac.glow} ${
                   isWip ? 'opacity-60' : ''
                 }`}
               >
                 {/* WIP badge */}
                 {isWip && project.badge && (
-                  <span className="absolute top-4 right-4 text-xs px-2.5 py-1 rounded-full bg-slate-800/80 text-slate-400 border border-slate-700/50">
+                  <span className="absolute top-4 right-4 text-xs px-2.5 py-1 rounded-full bg-violet-500/10 text-violet-400 border border-violet-500/20">
                     {project.badge}
                   </span>
                 )}

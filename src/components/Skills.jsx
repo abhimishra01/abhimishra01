@@ -58,7 +58,8 @@ export default function Skills() {
           transition={{ duration: 0.5 }}
           className="mb-14"
         >
-          <h2 className="text-3xl font-bold text-slate-100 mb-2">My Stack</h2>
+          <h2 className="font-heading text-3xl font-bold text-slate-100 mb-2">My Stack</h2>
+          <div className="w-10 h-0.5 bg-violet-500 mb-3" />
           <p className="text-slate-500">Tools I use in production.</p>
         </motion.div>
 
@@ -67,10 +68,10 @@ export default function Skills() {
           {skillGroups.map((group) => (
             <div key={group.id}>
               <div className="flex items-center gap-3 mb-4">
-                <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+                <h3 className="text-xs font-semibold uppercase tracking-widest text-violet-400">
                   {group.label}
                 </h3>
-                <div className="h-px flex-1 bg-slate-800" />
+                <div className="h-px flex-1 bg-violet-500/20" />
               </div>
               <motion.div
                 variants={containerVariants}
@@ -85,7 +86,7 @@ export default function Skills() {
                     <motion.span
                       key={skill.name}
                       variants={badgeVariants}
-                      className="flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border border-slate-800 bg-[#111111] text-slate-400 hover:border-orange-500/30 hover:text-orange-400 hover:bg-orange-500/5 transition-colors cursor-default"
+                      className="flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border border-violet-500/15 bg-violet-500/10 text-violet-300 hover:bg-violet-500/20 transition-colors cursor-default"
                     >
                       {Icon && <Icon size={12} className="opacity-70" />}
                       {skill.name}

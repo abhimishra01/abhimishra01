@@ -1,31 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-html {
-  scroll-behavior: smooth;
-}
-
 :root {
-  --bg: #0a0a0a;
-  --surface: #111111;
-  --surface-2: #1a1a1a;
-  --accent: #f97316;
+  --bg: #07040f;
+  --surface: #111118;
+  --surface-2: #1a1825;
+  --accent: #8b5cf6;
   --accent-2: #6366f1;
-  --accent-glow: rgba(249,115,22,0.3);
-  --text-primary: #f1f5f9;
-  --text-muted: #64748b;
-  --border: #1e293b;
+  --accent-glow: rgba(139,92,246,0.3);
+  --text-primary: #ede9fe;
+  --text-muted: #4c4470;
+  --border: rgba(139,92,246,0.15);
 }
 
 body {
   background: var(--bg);
   color: var(--text-primary);
-  font-family: 'Inter', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* Custom scrollbar */
@@ -33,20 +31,20 @@ body {
   width: 6px;
 }
 ::-webkit-scrollbar-track {
-  background: #0a0a0a;
+  background: #07040f;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1e293b;
+  background: rgba(139,92,246,0.3);
   border-radius: 3px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #f97316;
+  background: #8b5cf6;
 }
 
 /* Hero dot grid */
 .hero-dots {
   background-image: radial-gradient(
-    rgba(249,115,22,0.12) 1px, transparent 1px
+    rgba(139,92,246,0.15) 1px, transparent 1px
   );
   background-size: 28px 28px;
 }
@@ -55,17 +53,17 @@ body {
 .hero-bg {
   background:
     radial-gradient(ellipse 60% 50% at 70% 20%,
-      rgba(249,115,22,0.08) 0%, transparent 60%),
+      rgba(139,92,246,0.12) 0%, transparent 60%),
     radial-gradient(ellipse 40% 40% at 20% 80%,
-      rgba(99,102,241,0.06) 0%, transparent 60%);
+      rgba(99,102,241,0.08) 0%, transparent 60%);
 }
 
 /* Glow utilities */
-.glow-orange {
-  box-shadow: 0 0 20px rgba(249, 115, 22, 0.15);
+.glow-violet {
+  box-shadow: 0 0 20px rgba(139, 92, 246, 0.15);
 }
-.glow-orange:hover {
-  box-shadow: 0 0 30px rgba(249, 115, 22, 0.3);
+.glow-violet:hover {
+  box-shadow: 0 0 30px rgba(139, 92, 246, 0.3);
 }
 .glow-indigo {
   box-shadow: 0 0 20px rgba(99, 102, 241, 0.15);

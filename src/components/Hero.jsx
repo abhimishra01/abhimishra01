@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
-import { FiGithub, FiLinkedin } from 'react-icons/fi'
+import { FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi'
 
-const headline = ['I Build AI Tools', 'That Actually Ship.']
+const headline = ['I Build AI That Replaces', 'Manual Work.']
 
 const wordVariants = {
   hidden: { opacity: 0, y: 30 },
@@ -42,14 +42,14 @@ export default function Hero() {
           initial="hidden"
           animate="visible"
           custom={-1}
-          className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-orange-500/25 bg-orange-500/10 text-xs text-orange-400 mb-10"
+          className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-violet-500/25 bg-violet-500/10 text-xs text-violet-400 mb-10"
         >
           <span className="w-1.5 h-1.5 rounded-full bg-green-400 pulse-green" />
           Available for freelance &amp; full-time
         </motion.div>
 
         {/* Headline — line by line */}
-        <h1 className="text-5xl md:text-7xl font-bold leading-tight tracking-tight mb-6">
+        <h1 className="font-heading text-5xl md:text-7xl font-bold leading-tight tracking-tight mb-6">
           {headline.map((line, i) => (
             <motion.span
               key={i}
@@ -59,8 +59,8 @@ export default function Hero() {
               animate="visible"
               className={`block ${
                 i === 1
-                  ? 'bg-gradient-to-r from-orange-500 to-orange-400 bg-clip-text text-transparent'
-                  : 'text-slate-100'
+                  ? 'bg-gradient-to-r from-violet-500 to-indigo-500 bg-clip-text text-transparent'
+                  : 'text-white'
               }`}
             >
               {line}
@@ -92,15 +92,15 @@ export default function Hero() {
             onClick={() => scrollTo('projects')}
             className="px-6 py-3 rounded-lg font-semibold text-sm text-white transition-all duration-200 hover:-translate-y-0.5"
             style={{
-              background: 'linear-gradient(to right, #f97316, #ea580c)',
-              boxShadow: '0 4px 20px rgba(249,115,22,0.35)',
+              background: 'linear-gradient(to right, #8b5cf6, #6366f1)',
+              boxShadow: '0 4px 20px rgba(139,92,246,0.3)',
             }}
           >
             See My Work
           </button>
           <button
             onClick={() => scrollTo('contact')}
-            className="px-6 py-3 rounded-lg border border-orange-500/30 bg-orange-500/8 text-orange-400 font-semibold text-sm hover:border-orange-500/60 hover:bg-orange-500/15 transition-all duration-200 hover:-translate-y-0.5"
+            className="px-6 py-3 rounded-lg border border-violet-500/30 bg-violet-500/5 text-violet-400 font-semibold text-sm hover:border-violet-500/60 hover:bg-violet-500/15 transition-all duration-200 hover:-translate-y-0.5"
           >
             Let&apos;s Talk
           </button>
@@ -118,7 +118,7 @@ export default function Hero() {
             href="https://github.com/abhimishra01"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 text-slate-500 hover:text-orange-400 transition-colors text-sm"
+            className="flex items-center gap-2 text-slate-500 hover:text-violet-400 transition-colors text-sm"
           >
             <FiGithub size={18} />
             <span>GitHub</span>
@@ -128,10 +128,20 @@ export default function Hero() {
             href="https://linkedin.com/in/abhimishra321"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 text-slate-500 hover:text-orange-400 transition-colors text-sm"
+            className="flex items-center gap-2 text-slate-500 hover:text-violet-400 transition-colors text-sm"
           >
             <FiLinkedin size={18} />
             <span>LinkedIn</span>
+          </a>
+          <span className="w-px h-4 bg-slate-700" />
+          <a
+            href="https://x.com/abhimishra__"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 text-slate-500 hover:text-violet-400 transition-colors text-sm"
+          >
+            <FiTwitter size={18} />
+            <span>Twitter</span>
           </a>
         </motion.div>
       </div>
@@ -147,7 +157,7 @@ export default function Hero() {
         <motion.div
           animate={{ y: [0, 6, 0] }}
           transition={{ repeat: Infinity, duration: 1.5, ease: 'easeInOut' }}
-          className="w-px h-8 bg-gradient-to-b from-orange-500/40 to-transparent"
+          className="w-px h-8 bg-gradient-to-b from-violet-500/40 to-transparent"
         />
       </motion.div>
     </section>

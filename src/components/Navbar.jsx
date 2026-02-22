@@ -48,7 +48,7 @@ export default function Navbar() {
       transition={{ duration: 0.5, ease: 'easeOut' }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
-          ? 'bg-[#0a0a0a]/80 backdrop-blur-md border-b border-orange-500/10'
+          ? 'bg-[#07040f]/80 backdrop-blur-md border-b border-violet-500/10'
           : 'bg-transparent'
       }`}
     >
@@ -56,10 +56,13 @@ export default function Navbar() {
         {/* Logo */}
         <button
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="w-9 h-9 rounded-lg flex items-center justify-center font-bold text-white text-sm tracking-tight transition-opacity hover:opacity-80"
-          style={{ background: 'linear-gradient(135deg, #f97316, #ea580c)' }}
+          className="w-10 h-10 rounded-full overflow-hidden ring-2 ring-violet-500/40 hover:ring-violet-500/80 transition-all duration-200"
         >
-          AM
+          <img
+            src="https://avatars.githubusercontent.com/u/55781078?v=4"
+            alt="Abhishek Mishra"
+            className="w-full h-full object-cover object-top"
+          />
         </button>
 
         {/* Desktop links */}
@@ -72,7 +75,7 @@ export default function Navbar() {
                   onClick={() => handleClick(link.href)}
                   className={`text-sm font-medium transition-colors ${
                     isActive
-                      ? 'text-orange-400'
+                      ? 'text-violet-400'
                       : 'text-slate-400 hover:text-slate-100'
                   }`}
                 >
@@ -101,7 +104,7 @@ export default function Navbar() {
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}
             transition={{ duration: 0.2 }}
-            className="md:hidden bg-[#111111] border-b border-orange-500/10 overflow-hidden"
+            className="md:hidden bg-[#111118] border-b border-violet-500/10 overflow-hidden"
           >
             <ul className="px-6 py-4 flex flex-col gap-4">
               {navLinks.map((link) => {
@@ -112,7 +115,7 @@ export default function Navbar() {
                       onClick={() => handleClick(link.href)}
                       className={`text-sm font-medium transition-colors ${
                         isActive
-                          ? 'text-orange-400'
+                          ? 'text-violet-400'
                           : 'text-slate-400 hover:text-slate-100'
                       }`}
                     >

@@ -25,7 +25,7 @@ export default function Services() {
   }
 
   return (
-    <section id="services" className="py-24 px-6 bg-[#111111]">
+    <section id="services" className="py-24 px-6 bg-[#111118]">
       <div className="max-w-6xl mx-auto">
         {/* Heading */}
         <motion.div
@@ -35,7 +35,8 @@ export default function Services() {
           transition={{ duration: 0.5 }}
           className="mb-14"
         >
-          <h2 className="text-3xl font-bold text-slate-100 mb-2">What I Can Build For You</h2>
+          <h2 className="font-heading text-3xl font-bold text-slate-100 mb-2">What I Can Build For You</h2>
+          <div className="w-10 h-0.5 bg-violet-500 mb-3" />
           <p className="text-slate-500">End-to-end AI product development, from idea to deployed.</p>
         </motion.div>
 
@@ -51,17 +52,17 @@ export default function Services() {
                 initial="hidden"
                 whileInView="visible"
                 viewport={{ once: true }}
-                className="relative rounded-xl border border-slate-800 bg-[#0a0a0a] p-6 flex flex-col gap-5 transition-all duration-300 hover:-translate-y-1 hover:border-orange-500/40 hover:shadow-[0_0_30px_rgba(249,115,22,0.08)] group"
+                className="relative rounded-xl border border-violet-500/15 bg-[#07040f] p-6 flex flex-col gap-5 transition-all duration-300 hover:-translate-y-1 hover:border-violet-500/30 hover:shadow-[0_0_30px_rgba(139,92,246,0.08)] group"
               >
                 {/* Badge */}
                 {service.badge && (
-                  <span className="absolute top-4 right-4 text-xs px-2.5 py-1 rounded-full bg-orange-500/15 text-orange-400 border border-orange-500/20">
+                  <span className="absolute top-4 right-4 text-xs px-2.5 py-1 rounded-full bg-violet-500/20 text-violet-300 border border-violet-500/20">
                     {service.badge}
                   </span>
                 )}
 
                 {/* Icon */}
-                <div className="w-11 h-11 rounded-xl bg-orange-500/10 border border-orange-500/20 flex items-center justify-center text-orange-400 group-hover:bg-orange-500/20 transition-colors">
+                <div className="w-11 h-11 rounded-xl bg-violet-500/15 border border-violet-500/20 flex items-center justify-center text-violet-400 group-hover:bg-violet-500/25 transition-colors">
                   <Icon size={22} />
                 </div>
 
@@ -74,7 +75,7 @@ export default function Services() {
                 {/* CTA */}
                 <button
                   onClick={scrollToContact}
-                  className="mt-auto text-xs font-semibold text-orange-400 hover:text-orange-300 transition-colors text-left border border-orange-500/30 px-3 py-1.5 rounded-lg hover:border-orange-500/60 w-fit"
+                  className="mt-auto text-xs font-semibold text-violet-400 hover:text-violet-300 transition-colors text-left border border-violet-500/30 px-3 py-1.5 rounded-lg hover:border-violet-500/60 w-fit"
                 >
                   Let&apos;s Talk →
                 </button>

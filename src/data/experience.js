@@ -35,7 +35,7 @@ export const experience = [
   {
     id: 3,
     title: 'B.Tech - Mechanical Engineering',
-    company: 'Aryan College of Engineering & IT',
+    company: 'Arya College of Engineering & IT',
     companyNote: 'Jaipur, India',
     period: '2018 — 2020',
     type: 'work',
