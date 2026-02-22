@@ -54,6 +54,7 @@ export default function Projects() {
           {projects.map((project, i) => {
             const ac = accentMap[project.accent] || accentMap.muted
             const isWip = project.status === 'wip'
+            const isInProgress = project.status === 'In progress'
 
             return (
               <motion.div
@@ -71,6 +72,13 @@ export default function Projects() {
                 {isWip && project.badge && (
                   <span className="absolute top-4 right-4 text-xs px-2.5 py-1 rounded-full bg-violet-500/10 text-violet-400 border border-violet-500/20">
                     {project.badge}
+                  </span>
+                )}
+
+                {/* In Progress badge */}
+                {isInProgress && (
+                  <span className="absolute top-4 right-4 text-xs px-2.5 py-1 rounded-full bg-amber-500/10 text-amber-400 border border-amber-500/20">
+                    In Progress
                   </span>
                 )}
 
@@ -105,7 +113,7 @@ export default function Projects() {
 
                 {/* Action buttons */}
                 <div className="flex items-center gap-3 mt-auto pt-2">
-                  {project.liveUrl && (
+                  {project.liveUrl && !isInProgress && (
                     <a
                       href={project.liveUrl}
                       target="_blank"
