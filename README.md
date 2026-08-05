@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome </h1>
 
-- I work as a software engineer - II at [Oqu AI](https://www.oqu.ai/)
+- I work as a software engineer - II 
 ---
 I build AI systems that eliminate manual work at scale.
 
