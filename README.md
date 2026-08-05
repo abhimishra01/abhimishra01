@@ -20,12 +20,6 @@ Currently based in Lucknow. Open to remote roles and freelance engagements globa
 If you're building something in fintech, document-heavy, SAAS or any other workflows and need AI that actually works in production - let's talk.
 
 
-
-
-> *Also Visit my [LinkedIn profile](https://www.linkedin.com/in/abhimishra321/) to connect with me*
-<br><br>
-
-
   
 
 
